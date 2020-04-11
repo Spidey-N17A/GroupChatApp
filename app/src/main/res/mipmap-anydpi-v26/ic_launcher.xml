@@ -1,0 +1,1 @@
+[{"pid":0,"ph":"i","name":"Memory sample","ts":1586477358099000,"args":{"JVM stats":"heap_memory_usage: 134418376\nnon_heap_memory_usage: 105498512\nloaded_class_count: 12790\nthread_count: 26\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  

@@ -1,0 +1,1 @@
+[{"pid":0,"ph":"i","name":"Memory sample","ts":1586522843037000,"args":{"JVM stats":"heap_memory_usage: 39910944\nnon_heap_memory_usage: 56803520\nloaded_class_count: 8045\nthread_count: 25\ngarbage_collectio

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">869071483760-0fuh0rqnp9tpf9c306tdf8feobpd1pfd.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://disscussion-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">869071483760</string>
+    <string name="google_api_key" translatable="false">AIzaSyDxt0Gp2ILxnCAiMc3Un53x8MXOp-eCn_g</string>
+    <string name="google_app_id" translatable="false">1:869071483760:android:a31c431848bfef888395b5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDxt0Gp2ILxnCAiMc3Un53x8MXOp-eCn_g</string>
+    <string name="google_storage_bucket" translatable="false">disscussion-app.appspot.com</string>
+    <string name="project_id" translatable="false">disscussion-app</string>
+</resources>
